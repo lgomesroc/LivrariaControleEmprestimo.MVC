@@ -1,0 +1,5 @@
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net8.0\LivrariaControleEmprestimo.DATA.csproj.AssemblyReference.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net8.0\LivrariaControleEmprestimo.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net8.0\LivrariaControleEmprestimo.DATA.AssemblyInfoInputs.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net8.0\LivrariaControleEmprestimo.DATA.AssemblyInfo.cs
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.DATA\obj\Debug\net8.0\LivrariaControleEmprestimo.DATA.csproj.CoreCompileInputs.cache

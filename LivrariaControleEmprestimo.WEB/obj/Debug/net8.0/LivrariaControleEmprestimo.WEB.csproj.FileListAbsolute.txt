@@ -1,0 +1,8 @@
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.csproj.AssemblyReference.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.AssemblyInfoInputs.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.AssemblyInfo.cs
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.csproj.CoreCompileInputs.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.RazorAssemblyInfo.cache
+D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB\obj\Debug\net8.0\LivrariaControleEmprestimo.WEB.RazorAssemblyInfo.cs
