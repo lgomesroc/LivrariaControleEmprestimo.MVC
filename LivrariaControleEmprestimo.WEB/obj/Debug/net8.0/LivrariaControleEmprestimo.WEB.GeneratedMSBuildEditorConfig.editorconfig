@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Programas testes\LivrariaControleEmprestimo\LivrariaControleEmprestimo.WEB
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Programas testes/LivrariaControleEmprestimo/LivrariaControleEmprestimo.WEB/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Programas testes/LivrariaControleEmprestimo/LivrariaControleEmprestimo.WEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

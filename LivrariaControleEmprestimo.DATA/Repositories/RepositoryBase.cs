@@ -11,6 +11,7 @@ namespace LivrariaControleEmprestimo.DATA.Repositories
 {
     public class RepositoryBase<T> : IRepositoryModel<T>, IDisposable where T : class
     {
+        
         protected ControleEmprestimoLivroContext _Contexto;
         public bool _Savechanges = true;
 
@@ -72,12 +73,27 @@ namespace LivrariaControleEmprestimo.DATA.Repositories
 
         public T SelecionarPK(params object[] variavel)
         {
-           return _Contexto.Set<T>().Find(variavel);
+            if (_Contexto != null)
+            {
+                return _Contexto.Set<T>().Find(variavel);
+            }
+            else
+            {
+                return default(T);
+            }
         }
 
         public List<T> SelecionarTodos()
         {
-            return _Contexto.Set<T>().ToList();
+            if (_Contexto != null)
+            {
+                return _Contexto.Set<T>().ToList();
+            }
+            else
+            {
+                return new List<T>();
+            }
         }
+
     }
 }
